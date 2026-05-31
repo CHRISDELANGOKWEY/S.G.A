@@ -1,0 +1,66 @@
+[
+    {
+        "cours": "Circuits Logiques",
+        "groupe": "L1",
+        "salle": "AUD-L1",
+        "jour": "Lundi",
+        "heure_debut": "08:00",
+        "heure_fin": "12:00"
+    },
+    {
+        "cours": "R\u00e9seaux",
+        "groupe": "L2",
+        "salle": "AUD-L2",
+        "jour": "Lundi",
+        "heure_debut": "13:00",
+        "heure_fin": "17:00"
+    },
+    {
+        "cours": "Bases de donn\u00e9es",
+        "groupe": "L3",
+        "salle": "AUD-L3",
+        "jour": "Mardi",
+        "heure_debut": "08:00",
+        "heure_fin": "12:00"
+    },
+    {
+        "cours": "Freedom",
+        "groupe": "L4",
+        "salle": "AUD-L4",
+        "jour": "Mardi",
+        "heure_debut": "13:00",
+        "heure_fin": "17:00"
+    },
+    {
+        "cours": "S\u00e9curit\u00e9 des syst\u00e8mes",
+        "groupe": "OPT-SEC",
+        "salle": "SALLE-MACH",
+        "jour": "Mercredi",
+        "heure_debut": "08:00",
+        "heure_fin": "12:00"
+    },
+    {
+        "cours": "Architecture logicielle",
+        "groupe": "OPT-IL",
+        "salle": "SALLE-MACH",
+        "jour": "Mercredi",
+        "heure_debut": "13:00",
+        "heure_fin": "17:00"
+    },
+    {
+        "cours": "Robotique avanc\u00e9e",
+        "groupe": "OPT-ROB",
+        "salle": "SALLE-MACH",
+        "jour": "Jeudi",
+        "heure_debut": "08:00",
+        "heure_fin": "12:00"
+    },
+    {
+        "cours": "Data Mining",
+        "groupe": "OPT-DATA",
+        "salle": "SALLE-MACH",
+        "jour": "Jeudi",
+        "heure_debut": "13:00",
+        "heure_fin": "17:00"
+    }
+]

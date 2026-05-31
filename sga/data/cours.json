@@ -1,0 +1,10 @@
+[
+    {"id": "CIRC-LOG", "intitule": "Circuits Logiques", "type": "tronc_commun", "groupe": "L1"},
+    {"id": "RES-TP", "intitule": "Réseaux", "type": "tronc_commun", "groupe": "L2"},
+    {"id": "BDD", "intitule": "Bases de données", "type": "tronc_commun", "groupe": "L3"},
+    {"id": "FREEDOM", "intitule": "Freedom", "type": "tronc_commun", "groupe": "L4"},
+    {"id": "SEC-L3", "intitule": "Sécurité des systèmes", "type": "option", "groupe": "OPT-SEC"},
+    {"id": "IL-L3", "intitule": "Architecture logicielle", "type": "option", "groupe": "OPT-IL"},
+    {"id": "ROB-L4", "intitule": "Robotique avancée", "type": "option", "groupe": "OPT-ROB"},
+    {"id": "DATA-L4", "intitule": "Data Mining", "type": "option", "groupe": "OPT-DATA"}
+]

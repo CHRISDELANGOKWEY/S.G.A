@@ -1,0 +1,6 @@
+[
+    {"id": "OPT-SEC", "libelle": "Sécurité", "promotion_parente": "L3", "effectif": 30},
+    {"id": "OPT-IL", "libelle": "Ingénierie Logicielle", "promotion_parente": "L3", "effectif": 35},
+    {"id": "OPT-ROB", "libelle": "Robotique", "promotion_parente": "L4", "effectif": 25},
+    {"id": "OPT-DATA", "libelle": "Data Sciences", "promotion_parente": "L4", "effectif": 28}
+]
